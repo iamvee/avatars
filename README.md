@@ -10,6 +10,10 @@
 ![internet-color-version](./static/avatar3.png)
 
 
+* لوگوی کانال تلگرام و پادکست «غزل مزل»
+![movlana](./static/movlana.png)
+
+
 * No Shave November
 
 ![movember](./static/avatar5.png)
