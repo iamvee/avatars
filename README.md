@@ -54,7 +54,7 @@
 
 ۲۴ و ۲۵ دی ۹۹
 
-![irancloud](./static/avatar-iran-cloud.png)
+![irancloud](./static/avatar-iran-cleoud.png)
 
 
 
