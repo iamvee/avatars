@@ -104,3 +104,9 @@
 
 ![mosaed](./static/avatar-mosaaed.png)
 
+
+
+*  موز کیلویی ۵۰ تومن آخه؟
+
+![banana](./static/avatar-banana.png)
+
