@@ -110,3 +110,7 @@
 
 ![banana](./static/avatar-banana.png)
 
+
+* آواتار مناسبتی برای استارت شغل جدید
+
+![job](./static/avatar-new-job.png)
