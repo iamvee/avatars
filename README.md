@@ -2,75 +2,39 @@
 
 # my-twitter-avatars
 
-* سالگرد قطع اینترنت سراسری آبان ۹۸
 
-![internet](./static/EmxiWThWMAM2gMr.png)
+* به مناسبت پنج دقیقه ملی شدن اینترنت در بامداد ۱۲ فروردین
 
-
-* سالگرد قطع اینترنت سراسری آبان ۹۸ - ورژن رنگی
-
-![internet-color-version](./static/avatar3.png)
+![filternet-melli](./static/avatar-filternet.png)
 
 
-* لوگوی کانال تلگرام و پادکست «غزل مزل»
+* آواتار مناسبتی برای استارت شغل جدید
 
-![movlana](./static/movlana.png)
-
-
-* No Shave November
-
-![movember](./static/avatar5.png)
+![job](./static/avatar-new-job.png)
 
 
+*  موز کیلویی ۵۰ تومن آخه؟
 
-* کریسمس
-
-![christmas](./static/avatar-ch.png)
-
+![banana](./static/avatar-banana.png)
 
 
-* سالگرد سقوط هواپیمای اوکراینی
+*  دستگیری محمد مساعد در ترکیه
 
-![ukraine-plane](./static/avatar9.png)
-
-
-
-* اعلام عدم خریداری واکسن فایز و مدرنا برای ایرانیان توسط مسئولین
-
-![vaccine](./static/avatar88.png)
+![mosaed](./static/avatar-mosaaed.png)
 
 
-* اظهار این ادعا که در واکسن‌های خارجی، جی‌پی‌اس وجود دارد
+* دستگیری الکسی ناوالنی در فرودگاه مسکو
 
-![vaccine2](./static/avatar-gps2.png)
+18-jan-2021
 
-
-
-* قطع برق گسترده در تهران
-
-![elec](./static/avatar-elec.png)
+![moscow](./static/avatar-novichok.png)
 
 
+* رکورد فروش آثار هنری(؟) در حراج تهران: تابلوی آغداشلو
 
-* آلودگی هوای تهران به خاطر مازوت + قطع برق گسترده در تهران
+۲۷ دی ۹۹
 
-![elec-polution](./static/avatarpol.png)
-
-
-* مباحث مربوط به پروژهٔ ابر ایران
-
-۲۴ و ۲۵ دی ۹۹
-
-![irancloud](./static/avatar-iran-cleoud.png)
-
-
-
-
-* حذف پیام‌رسان سیگنال از مارکت‌های ایرانی از جمله کافه بازار
-
-۲۶ دی ۹۹
-
-![signal](./static/avatar-bazar-signal.png)
+![aghdashloo](./static/avatar-aghdashloo.png)
 
 
 
@@ -84,33 +48,75 @@
 
 
 
-* رکورد فروش آثار هنری(؟) در حراج تهران: تابلوی آغداشلو
+* حذف پیام‌رسان سیگنال از مارکت‌های ایرانی از جمله کافه بازار
 
-۲۷ دی ۹۹
+۲۶ دی ۹۹
 
-![aghdashloo](./static/avatar-aghdashloo.png)
-
-
-
-
-* دستگیری الکسی ناوالنی در فرودگاه مسکو
-
-18-jan-2021
-
-![moscow](./static/avatar-novichok.png)
-
-
-*  دستگیری محمد مساعد در ترکیه
-
-![mosaed](./static/avatar-mosaaed.png)
+![signal](./static/avatar-bazar-signal.png)
 
 
 
-*  موز کیلویی ۵۰ تومن آخه؟
+* مباحث مربوط به پروژهٔ ابر ایران
 
-![banana](./static/avatar-banana.png)
+۲۴ و ۲۵ دی ۹۹
+
+![irancloud](./static/avatar-iran-cleoud.png)
 
 
-* آواتار مناسبتی برای استارت شغل جدید
 
-![job](./static/avatar-new-job.png)
+
+* آلودگی هوای تهران به خاطر مازوت + قطع برق گسترده در تهران
+
+![elec-polution](./static/avatarpol.png)
+
+
+
+
+* قطع برق گسترده در تهران
+
+![elec](./static/avatar-elec.png)
+
+
+* اظهار این ادعا که در واکسن‌های خارجی، جی‌پی‌اس وجود دارد
+
+![vaccine2](./static/avatar-gps2.png)
+
+
+
+* اعلام عدم خریداری واکسن فایز و مدرنا برای ایرانیان توسط مسئولین
+
+![vaccine](./static/avatar88.png)
+
+
+
+* سالگرد سقوط هواپیمای اوکراینی
+
+![ukraine-plane](./static/avatar9.png)
+
+
+* کریسمس
+
+![christmas](./static/avatar-ch.png)
+
+
+
+* No Shave November
+
+![movember](./static/avatar5.png)
+
+
+
+* لوگوی کانال تلگرام و پادکست «غزل مزل»
+
+![movlana](./static/movlana.png)
+
+
+* سالگرد قطع اینترنت سراسری آبان ۹۸ - ورژن رنگی
+
+![internet-color-version](./static/avatar3.png)
+
+
+* سالگرد قطع اینترنت سراسری آبان ۹۸
+
+![internet](./static/EmxiWThWMAM2gMr.png)
+
