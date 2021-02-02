@@ -3,6 +3,12 @@
 # my-twitter-avatars
 
 
+
+* به مناسبت رفع کدورت‌ها در سطح ملی با طالبان اینا
+
+![taliban](./static/avatar-taliban.png)
+
+
 * به مناسبت پنج دقیقه ملی شدن اینترنت در بامداد ۱۲ فروردین
 
 ![filternet-melli](./static/avatar-filternet.png)
