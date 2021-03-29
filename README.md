@@ -120,6 +120,8 @@
 
 * لوگوی کانال تلگرام و پادکست «غزل مزل»
 
+[لینک پادکست روی ساندکلاد](https://castbox.fm/channel/id3480742?country=us)
+
 ![movlana](./static/movlana.png)
 
 
