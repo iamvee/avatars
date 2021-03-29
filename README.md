@@ -2,6 +2,10 @@
 
 # my-twitter-avatars
 
+* به مناسبت امضای قرارداد ۲۵ ساله با چین 
+
+![china](./static/avatar-china.png)
+
 * به مناسبت اختلالات شبانه اینترنت در روز‌های اخیر
 
 ![internet shit](./static/avatar-ekhtelalat.png)
