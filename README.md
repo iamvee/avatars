@@ -2,6 +2,10 @@
 
 # my-twitter-avatars
 
+* به مناسبت پیام‌های خطای ۴۰۳ از طرف گوگل و جلوگیری از دسترسی به برخی سرویس‌ها حتی با وی پی ان
+
+![china](./static/avatar-google.png)
+
 * به مناسبت امضای قرارداد ۲۵ ساله با چین 
 
 ![china](./static/avatar-china.png)
