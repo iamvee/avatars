@@ -1,4 +1,4 @@
-[github](https://github.com/iamvee/my-twitter-avatars) | [website](http://iamv.ir/my-twitter-avatars)
+[github](https://github.com/iamvee/avatars) | [website](http://iamv.ir/avatars)
 
 # my-twitter-avatars
 
