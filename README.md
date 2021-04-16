@@ -5,6 +5,7 @@
 * مناسبت [این سخنرانی](https://twitter.com/mhnajmi64/status/1382315879560527872)
 
 ![nissan](./static/avatar-nissan.png)
+![nissan](./static/avatar-nissan-1.png)
 
 * اورانیم
 
