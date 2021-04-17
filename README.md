@@ -2,6 +2,10 @@
 
 # my-twitter-avatars
 
+* twitter
+
+![twitter](./static/avatar-twitter-down.png)
+
 * مناسبت [این سخنرانی](https://twitter.com/mhnajmi64/status/1382315879560527872)
 
 ![nissan](./static/avatar-nissan.png)
