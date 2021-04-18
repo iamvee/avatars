@@ -5,7 +5,7 @@
 
 |     |      |     |    |
 |-----|------|-----|----|
-| | | | ![namjoo](./static/avatar-namjoo.png "محسن نامجو - آوریل ۲۰۲۱")   |
+| | | ![namjoo](./static/avatar-vaccine-money.png "هرکی پول بده واکسن بهش زودتر می‌رسه؟")  | ![namjoo](./static/avatar-namjoo.png "محسن نامجو - آوریل ۲۰۲۱")   |
 | ![ukraine-plane](./static/avatar9.png "هواپیمای اوکراینی")      | ![twitter](./static/avatar-twitter-down.png "twitter was down on April 18th 2021")  | [![nissan](./static/avatar-nissan.png "روی همین عکس کلیک کنید تا لینک سخنرانی مربوطه رو ببینید")](https://twitter.com/mhnajmi64/status/1382315879560527872)     | ![nissan](./static/avatar-nissan-1.png) | 
 | ![uranium](./static/avatar-uranium.png "اورانیم") | ![china](./static/avatar-google.png "به مناسبت پیام‌های خطای ۴۰۳ از طرف گوگل و جلوگیری از دسترسی به برخی سرویس‌ها حتی با وی پی ان") |  ![china](./static/avatar-china.png "به مناسبت امضای قرارداد ۲۵ ساله با چین")  |  ![internet shit](./static/avatar-ekhtelalat.png "به مناسبت اختلالات شبانه اینترنت در روز‌های اخیر")  |
 |  ![taliban](./static/avatar-taliban.png "به مناسبت رفع کدورت‌ها در سطح ملی با طالبان اینا")  | ![filternet-melli](./static/avatar-filternet.png "به مناسبت پنج دقیقه ملی شدن اینترنت در بامداد ۱۲ فروردین") | ![job](./static/avatar-new-job.png "آواتار مناسبتی برای استارت شغل جدید") | ![banana](./static/avatar-banana.png "موز کیلویی ۵۰ تومن آخه؟") | 
